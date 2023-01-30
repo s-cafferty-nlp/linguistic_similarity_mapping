@@ -1,0 +1,3406 @@
+{
+    "nodes": [
+        {
+            "id": "Yakut",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Fiji Hindi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Breton",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Sranan Tongo",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ket",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Karachay-Balkar",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Skolt Sami",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tswana",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Prussian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Min Nan Chinese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "?X\u00f3\u00f5",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Dongxiang",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Lezghian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Croatian",
+            "size": 0.1,
+            "type": "digital"
+        },
+        {
+            "id": "Dolgan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tuvinian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Gagauz",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Khakas",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Nepali",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Wu Chinese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Church Slavic",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Asturian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Moksha",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Galician",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Manx",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Thai",
+            "size": 0.5,
+            "type": "digital"
+        },
+        {
+            "id": "Eastern Mari",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Guadeloupean Creole French",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tamil",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Lingala",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Madurese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tibetan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Javanese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Southern Altai",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Turkmen",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Lombard",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tagalog",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Manipuri",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Montagnais",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kara-Kalpak",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Dogrib",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Udmurt",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Dutch",
+            "size": 1.2,
+            "type": "digital"
+        },
+        {
+            "id": "Luxembourgish",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Sicilian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Khmer",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Yoruba",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Central Bikol",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Piemontese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Xhosa",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Vietnamese",
+            "size": 1.3,
+            "type": "digital"
+        },
+        {
+            "id": "Uab Meto",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kabardian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Powhatan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Mazanderani",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Georgian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Nanai",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Upper Sorbian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Egyptian Arabic",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Rapanui",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Western Mari",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Hindi",
+            "size": 0.1,
+            "type": "digital"
+        },
+        {
+            "id": "Ganda",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Armenian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Telugu",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ancient Greek",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ingrian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kabyle",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Adyghe",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Alviri-Vidari",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Iloko",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Oriya",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Aleut",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Scottish Gaelic",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Talysh",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Limburgan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Erzya",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kashmiri",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kildin Sami",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Sichuan Yi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Achinese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Luo",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tajik",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Macedo-Romanian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Samoan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Swati",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Central Atlas Tamazight",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Uighur",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Aragonese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Laz",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Scots",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Cheyenne",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Sundanese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kikuyu",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tai Dam",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Extremaduran",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Veps",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Esperanto",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Guerrero Amuzgo",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Avaric",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kamba",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kinyarwanda",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kirghiz",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Russian",
+            "size": 5.3,
+            "type": "digital"
+        },
+        {
+            "id": "Dhivehi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Liv",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Coptic",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Slovenian",
+            "size": 0.1,
+            "type": "digital"
+        },
+        {
+            "id": "Bashkir",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Balinese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kannada",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Evenki",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Venetian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Cherokee",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Russia Buriat",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tohono O'odham",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Lower Sorbian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Latgalian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "French",
+            "size": 4.1,
+            "type": "digital"
+        },
+        {
+            "id": "Wymysorys",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Chuvash",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Rusyn",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Bau Bidayuh",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Irish",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Wolof",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Hopi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Cornish",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Korean",
+            "size": 0.7,
+            "type": "digital"
+        },
+        {
+            "id": "Mi'kmaq",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Czech",
+            "size": 0.6,
+            "type": "digital"
+        },
+        {
+            "id": "Somali",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Faroese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Japanese",
+            "size": 3.3,
+            "type": "digital"
+        },
+        {
+            "id": "Spanish",
+            "size": 4.6,
+            "type": "digital"
+        },
+        {
+            "id": "Pedi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ladino",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ainu",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Gilbertese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Romanian",
+            "size": 0.4,
+            "type": "digital"
+        },
+        {
+            "id": "Gheg Albanian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Pitjantjatjara",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kalaallisut",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Dakota",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Bulgarian",
+            "size": 0.2,
+            "type": "digital"
+        },
+        {
+            "id": "Minangkabau",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Bengali",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Mirandese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Northern Tiwa",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "German",
+            "size": 3.9,
+            "type": "digital"
+        },
+        {
+            "id": "Maori",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Standard Malay",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Swiss German",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Vlaams",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Latin",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Nauru",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Dzongkha",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Yue Chinese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Pampanga",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Cebuano",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ligurian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Amharic",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Mingrelian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Meru",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Nyanja",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Romagnol",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Occitan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Chinese",
+            "size": 1.6,
+            "type": "digital"
+        },
+        {
+            "id": "Macedonian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Pali",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Saterfriesisch",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Gujarati",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Haitian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Bavarian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Malayalam",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tahitian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Polish",
+            "size": 1.2,
+            "type": "digital"
+        },
+        {
+            "id": "Papiamento",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Indonesian",
+            "size": 0.6,
+            "type": "digital"
+        },
+        {
+            "id": "Kumyk",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Belarusian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Marathi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Nogai",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Chamorro",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Lao",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Sindhi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Pitcairn-Norfolk",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Min Dong Chinese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Dungan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Fijian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Arpitan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Lithuanian",
+            "size": 0.1,
+            "type": "digital"
+        },
+        {
+            "id": "Basque",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Votic",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Modern Greek",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Mongolian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tok Pisin",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Icelandic",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Waray",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Northern Frisian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Northern Sami",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Central Kurdish",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Pipil",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Mandinka",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Bambara",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Western Frisian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Moroccan Arabic",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Crimean Tatar",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Central Okinawan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Algonquin",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Krio",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Portuguese",
+            "size": 1.9,
+            "type": "digital"
+        },
+        {
+            "id": "Banjar",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tuvalu",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Hebrew",
+            "size": 0.5,
+            "type": "digital"
+        },
+        {
+            "id": "Mandarin Chinese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Karelian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Konkani",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Welsh",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Komi-Permyak",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "V\u00f5ro",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Persian",
+            "size": 2.1,
+            "type": "digital"
+        },
+        {
+            "id": "Gallurese Sardinian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Inari Sami",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Afrikaans",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Baure",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kazakh",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Low German",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "M\u00f3cheno",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kashubian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Lakota",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tigrinya",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Buginese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Bodo",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kis",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Slovak",
+            "size": 0.2,
+            "type": "digital"
+        },
+        {
+            "id": "Catalan",
+            "size": 0.1,
+            "type": "digital"
+        },
+        {
+            "id": "Bakhtiari",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Sanskrit",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Western Abnaki",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Finnish",
+            "size": 0.2,
+            "type": "digital"
+        },
+        {
+            "id": "Hiligaynon",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ama",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Danish",
+            "size": 0.3,
+            "type": "digital"
+        },
+        {
+            "id": "Friulian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Archi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Standard Arabic",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ossetian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Malay",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Walloon",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Chamicuro",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Santali",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Seri",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Chechen",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Hakka Chinese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Central Yupik",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Khoekhoe",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Lushai",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Norwegian Nynorsk",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Western Panjabi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Miyako",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Swedish",
+            "size": 0.4,
+            "type": "digital"
+        },
+        {
+            "id": "Jamaican Creole English",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Turkish",
+            "size": 2.5,
+            "type": "digital"
+        },
+        {
+            "id": "Corsican",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Pangasinan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Panjabi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "English",
+            "size": 57.2,
+            "type": "digital"
+        },
+        {
+            "id": "Hawaiian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Sassarese Sardinian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Southern Sotho",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Nenets",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Bor\u00f4ro",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Gan Chinese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Hungarian",
+            "size": 0.4,
+            "type": "digital"
+        },
+        {
+            "id": "Northern Kurdish",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Albanian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tonga",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Campidanese Sardinian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Warlpiri",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Abkhazian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Burmese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Yucateco",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tatar",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Italian",
+            "size": 1.7,
+            "type": "digital"
+        },
+        {
+            "id": "Zulu",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Lak",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Norwegian Bokm\u00e5l",
+            "size": 0.1,
+            "type": "digital"
+        },
+        {
+            "id": "Urdu",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ewe",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Bislama",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Romansh",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tetum",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Abaza",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kalmyk",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Central Melanau",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Avestan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ukrainian",
+            "size": 0.6,
+            "type": "digital"
+        },
+        {
+            "id": "Chinook jargon",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "K\u00f6lsch",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Sinhala",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Logudorese Sardinian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Neapolitan",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Rohingya",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Venda",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Western Apache",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Navajo",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Hausa",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Udi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Kalo Finnish Romani",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ladin",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Ingush",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Samogitian",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Shor",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Manchu",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Pennsylvania German",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Igbo",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Maltese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Shona",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Eshtehardi",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Tachelhit",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Assamese",
+            "size": 0,
+            "type": "aural"
+        },
+        {
+            "id": "Silesian",
+            "size": 0,
+            "type": "aural"
+        }
+    ],
+    "links": [
+        {
+            "source": "Abkhazian",
+            "target": "Abaza",
+            "sim": 14.485
+        },
+        {
+            "source": "Abaza",
+            "target": "Adyghe",
+            "sim": 8.911
+        },
+        {
+            "source": "Abaza",
+            "target": "Avaric",
+            "sim": 9.055
+        },
+        {
+            "source": "Abaza",
+            "target": "Ingush",
+            "sim": 8.754
+        },
+        {
+            "source": "Achinese",
+            "target": "Uab Meto",
+            "sim": 8.373
+        },
+        {
+            "source": "Achinese",
+            "target": "Buginese",
+            "sim": 31.506
+        },
+        {
+            "source": "Adyghe",
+            "target": "Kabardian",
+            "sim": 100.0
+        },
+        {
+            "source": "Afrikaans",
+            "target": "Western Frisian",
+            "sim": 9.655
+        },
+        {
+            "source": "Afrikaans",
+            "target": "Luxembourgish",
+            "sim": 7.032
+        },
+        {
+            "source": "Afrikaans",
+            "target": "Dutch",
+            "sim": 8.62
+        },
+        {
+            "source": "Algonquin",
+            "target": "Montagnais",
+            "sim": 30.219
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Bashkir",
+            "sim": 9.649
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Chuvash",
+            "sim": 6.727
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Shor",
+            "sim": 15.406
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Dolgan",
+            "sim": 10.621
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Gagauz",
+            "sim": 13.151
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Kara-Kalpak",
+            "sim": 13.971
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Kirghiz",
+            "sim": 9.194
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Khakas",
+            "sim": 24.537
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Karachay-Balkar",
+            "sim": 15.326
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Kumyk",
+            "sim": 12.544
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Nogai",
+            "sim": 10.365
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Yakut",
+            "sim": 10.569
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Tatar",
+            "sim": 7.729
+        },
+        {
+            "source": "Southern Altai",
+            "target": "Tuvinian",
+            "sim": 14.875
+        },
+        {
+            "source": "Uab Meto",
+            "target": "Buginese",
+            "sim": 18.236
+        },
+        {
+            "source": "Aragonese",
+            "target": "Asturian",
+            "sim": 10.865
+        },
+        {
+            "source": "Aragonese",
+            "target": "Extremaduran",
+            "sim": 6.504
+        },
+        {
+            "source": "Aragonese",
+            "target": "Friulian",
+            "sim": 6.7
+        },
+        {
+            "source": "Aragonese",
+            "target": "Mirandese",
+            "sim": 9.984
+        },
+        {
+            "source": "Aragonese",
+            "target": "Occitan",
+            "sim": 8.945
+        },
+        {
+            "source": "Aragonese",
+            "target": "Sicilian",
+            "sim": 7.441
+        },
+        {
+            "source": "Aragonese",
+            "target": "Venetian",
+            "sim": 7.824
+        },
+        {
+            "source": "Assamese",
+            "target": "Bengali",
+            "sim": 21.982
+        },
+        {
+            "source": "Assamese",
+            "target": "Bodo",
+            "sim": 6.589
+        },
+        {
+            "source": "Assamese",
+            "target": "Gujarati",
+            "sim": 14.399
+        },
+        {
+            "source": "Assamese",
+            "target": "Kannada",
+            "sim": 8.468
+        },
+        {
+            "source": "Assamese",
+            "target": "Konkani",
+            "sim": 8.976
+        },
+        {
+            "source": "Assamese",
+            "target": "Nepali",
+            "sim": 15.886
+        },
+        {
+            "source": "Assamese",
+            "target": "Oriya",
+            "sim": 18.216
+        },
+        {
+            "source": "Assamese",
+            "target": "Panjabi",
+            "sim": 10.953
+        },
+        {
+            "source": "Assamese",
+            "target": "Sanskrit",
+            "sim": 7.985
+        },
+        {
+            "source": "Asturian",
+            "target": "Catalan",
+            "sim": 8.409
+        },
+        {
+            "source": "Asturian",
+            "target": "Esperanto",
+            "sim": 6.526
+        },
+        {
+            "source": "Asturian",
+            "target": "Friulian",
+            "sim": 7.25
+        },
+        {
+            "source": "Asturian",
+            "target": "Galician",
+            "sim": 9.84
+        },
+        {
+            "source": "Asturian",
+            "target": "Latin",
+            "sim": 8.036
+        },
+        {
+            "source": "Asturian",
+            "target": "Mirandese",
+            "sim": 7.825
+        },
+        {
+            "source": "Asturian",
+            "target": "Occitan",
+            "sim": 14.333
+        },
+        {
+            "source": "Asturian",
+            "target": "Portuguese",
+            "sim": 9.907
+        },
+        {
+            "source": "Asturian",
+            "target": "Romansh",
+            "sim": 8.068
+        },
+        {
+            "source": "Asturian",
+            "target": "Sicilian",
+            "sim": 7.28
+        },
+        {
+            "source": "Asturian",
+            "target": "Spanish",
+            "sim": 9.234
+        },
+        {
+            "source": "Avaric",
+            "target": "Evenki",
+            "sim": 6.514
+        },
+        {
+            "source": "Avaric",
+            "target": "Komi-Permyak",
+            "sim": 7.794
+        },
+        {
+            "source": "Avaric",
+            "target": "Lak",
+            "sim": 7.94
+        },
+        {
+            "source": "Bashkir",
+            "target": "Gagauz",
+            "sim": 9.467
+        },
+        {
+            "source": "Bashkir",
+            "target": "Kara-Kalpak",
+            "sim": 8.479
+        },
+        {
+            "source": "Bashkir",
+            "target": "Kazakh",
+            "sim": 8.809
+        },
+        {
+            "source": "Bashkir",
+            "target": "Kirghiz",
+            "sim": 9.765
+        },
+        {
+            "source": "Bashkir",
+            "target": "Khakas",
+            "sim": 9.717
+        },
+        {
+            "source": "Bashkir",
+            "target": "Karachay-Balkar",
+            "sim": 10.984
+        },
+        {
+            "source": "Bashkir",
+            "target": "Kumyk",
+            "sim": 8.853
+        },
+        {
+            "source": "Bashkir",
+            "target": "Tatar",
+            "sim": 15.083
+        },
+        {
+            "source": "Balinese",
+            "target": "Buginese",
+            "sim": 13.922
+        },
+        {
+            "source": "Bavarian",
+            "target": "Pennsylvania German",
+            "sim": 6.653
+        },
+        {
+            "source": "Central Bikol",
+            "target": "Waray",
+            "sim": 13.055
+        },
+        {
+            "source": "Belarusian",
+            "target": "Macedonian",
+            "sim": 8.612
+        },
+        {
+            "source": "Belarusian",
+            "target": "Russian",
+            "sim": 7.692
+        },
+        {
+            "source": "Belarusian",
+            "target": "Ukrainian",
+            "sim": 17.088
+        },
+        {
+            "source": "Bengali",
+            "target": "Gujarati",
+            "sim": 16.35
+        },
+        {
+            "source": "Bengali",
+            "target": "Kannada",
+            "sim": 9.195
+        },
+        {
+            "source": "Bengali",
+            "target": "Konkani",
+            "sim": 11.165
+        },
+        {
+            "source": "Bengali",
+            "target": "Nepali",
+            "sim": 15.457
+        },
+        {
+            "source": "Bengali",
+            "target": "Oriya",
+            "sim": 21.782
+        },
+        {
+            "source": "Bengali",
+            "target": "Panjabi",
+            "sim": 13.007
+        },
+        {
+            "source": "Bengali",
+            "target": "Sanskrit",
+            "sim": 8.209
+        },
+        {
+            "source": "Banjar",
+            "target": "Javanese",
+            "sim": 6.809
+        },
+        {
+            "source": "Banjar",
+            "target": "Minangkabau",
+            "sim": 14.11
+        },
+        {
+            "source": "Tibetan",
+            "target": "Dzongkha",
+            "sim": 11.043
+        },
+        {
+            "source": "Bodo",
+            "target": "Nepali",
+            "sim": 6.857
+        },
+        {
+            "source": "Buginese",
+            "target": "Iloko",
+            "sim": 6.779
+        },
+        {
+            "source": "Buginese",
+            "target": "Javanese",
+            "sim": 7.861
+        },
+        {
+            "source": "Buginese",
+            "target": "Pampanga",
+            "sim": 10.615
+        },
+        {
+            "source": "Bulgarian",
+            "target": "Croatian",
+            "sim": 10.397
+        },
+        {
+            "source": "Bulgarian",
+            "target": "Macedonian",
+            "sim": 10.376
+        },
+        {
+            "source": "Bulgarian",
+            "target": "Russian",
+            "sim": 8.461
+        },
+        {
+            "source": "Bulgarian",
+            "target": "Slovak",
+            "sim": 7.933
+        },
+        {
+            "source": "Bulgarian",
+            "target": "Slovenian",
+            "sim": 8.084
+        },
+        {
+            "source": "Russia Buriat",
+            "target": "Evenki",
+            "sim": 13.726
+        },
+        {
+            "source": "Russia Buriat",
+            "target": "Komi-Permyak",
+            "sim": 8.04
+        },
+        {
+            "source": "Russia Buriat",
+            "target": "Kalmyk",
+            "sim": 13.103
+        },
+        {
+            "source": "Catalan",
+            "target": "English",
+            "sim": 8.284
+        },
+        {
+            "source": "Catalan",
+            "target": "French",
+            "sim": 12.214
+        },
+        {
+            "source": "Catalan",
+            "target": "Galician",
+            "sim": 16.886
+        },
+        {
+            "source": "Catalan",
+            "target": "Italian",
+            "sim": 11.194
+        },
+        {
+            "source": "Catalan",
+            "target": "Occitan",
+            "sim": 7.866
+        },
+        {
+            "source": "Catalan",
+            "target": "Portuguese",
+            "sim": 17.325
+        },
+        {
+            "source": "Catalan",
+            "target": "Romanian",
+            "sim": 9.072
+        },
+        {
+            "source": "Catalan",
+            "target": "Spanish",
+            "sim": 22.099
+        },
+        {
+            "source": "Min Dong Chinese",
+            "target": "Gan Chinese",
+            "sim": 13.053
+        },
+        {
+            "source": "Min Dong Chinese",
+            "target": "Min Nan Chinese",
+            "sim": 6.712
+        },
+        {
+            "source": "Cebuano",
+            "target": "Pampanga",
+            "sim": 7.346
+        },
+        {
+            "source": "Cebuano",
+            "target": "Waray",
+            "sim": 10.967
+        },
+        {
+            "source": "Czech",
+            "target": "Croatian",
+            "sim": 8.205
+        },
+        {
+            "source": "Czech",
+            "target": "Macedonian",
+            "sim": 6.534
+        },
+        {
+            "source": "Czech",
+            "target": "Slovak",
+            "sim": 16.481
+        },
+        {
+            "source": "Czech",
+            "target": "Slovenian",
+            "sim": 7.662
+        },
+        {
+            "source": "Chechen",
+            "target": "Ingush",
+            "sim": 21.748
+        },
+        {
+            "source": "Chuvash",
+            "target": "Khakas",
+            "sim": 7.16
+        },
+        {
+            "source": "Shor",
+            "target": "Dolgan",
+            "sim": 7.119
+        },
+        {
+            "source": "Shor",
+            "target": "Kara-Kalpak",
+            "sim": 6.565
+        },
+        {
+            "source": "Shor",
+            "target": "Khakas",
+            "sim": 19.743
+        },
+        {
+            "source": "Shor",
+            "target": "Karachay-Balkar",
+            "sim": 8.808
+        },
+        {
+            "source": "Shor",
+            "target": "Kumyk",
+            "sim": 6.653
+        },
+        {
+            "source": "Shor",
+            "target": "Tuvinian",
+            "sim": 7.994
+        },
+        {
+            "source": "Mandarin Chinese",
+            "target": "Chinese",
+            "sim": 11.768
+        },
+        {
+            "source": "Corsican",
+            "target": "Friulian",
+            "sim": 7.338
+        },
+        {
+            "source": "Corsican",
+            "target": "Ligurian",
+            "sim": 6.744
+        },
+        {
+            "source": "Corsican",
+            "target": "Macedo-Romanian",
+            "sim": 6.579
+        },
+        {
+            "source": "Corsican",
+            "target": "Sicilian",
+            "sim": 7.383
+        },
+        {
+            "source": "Corsican",
+            "target": "Venetian",
+            "sim": 6.762
+        },
+        {
+            "source": "Crimean Tatar",
+            "target": "Gagauz",
+            "sim": 10.373
+        },
+        {
+            "source": "Crimean Tatar",
+            "target": "Karachay-Balkar",
+            "sim": 8.176
+        },
+        {
+            "source": "Crimean Tatar",
+            "target": "Tatar",
+            "sim": 7.073
+        },
+        {
+            "source": "Kashubian",
+            "target": "Lower Sorbian",
+            "sim": 7.377
+        },
+        {
+            "source": "Kashubian",
+            "target": "Upper Sorbian",
+            "sim": 7.815
+        },
+        {
+            "source": "Kashubian",
+            "target": "Silesian",
+            "sim": 7.733
+        },
+        {
+            "source": "Dakota",
+            "target": "Lakota",
+            "sim": 89.25
+        },
+        {
+            "source": "Danish",
+            "target": "German",
+            "sim": 7.748
+        },
+        {
+            "source": "Danish",
+            "target": "Faroese",
+            "sim": 6.704
+        },
+        {
+            "source": "Danish",
+            "target": "Dutch",
+            "sim": 7.155
+        },
+        {
+            "source": "Danish",
+            "target": "Norwegian Nynorsk",
+            "sim": 31.443
+        },
+        {
+            "source": "Danish",
+            "target": "Norwegian Bokm\u00e5l",
+            "sim": 31.085
+        },
+        {
+            "source": "Danish",
+            "target": "Swedish",
+            "sim": 13.53
+        },
+        {
+            "source": "German",
+            "target": "Luxembourgish",
+            "sim": 7.265
+        },
+        {
+            "source": "German",
+            "target": "Dutch",
+            "sim": 9.196
+        },
+        {
+            "source": "German",
+            "target": "Norwegian Nynorsk",
+            "sim": 7.449
+        },
+        {
+            "source": "German",
+            "target": "Norwegian Bokm\u00e5l",
+            "sim": 7.119
+        },
+        {
+            "source": "Dolgan",
+            "target": "Gagauz",
+            "sim": 7.955
+        },
+        {
+            "source": "Dolgan",
+            "target": "Kara-Kalpak",
+            "sim": 9.874
+        },
+        {
+            "source": "Dolgan",
+            "target": "Khakas",
+            "sim": 10.633
+        },
+        {
+            "source": "Dolgan",
+            "target": "Karachay-Balkar",
+            "sim": 7.261
+        },
+        {
+            "source": "Dolgan",
+            "target": "Yakut",
+            "sim": 11.905
+        },
+        {
+            "source": "Lower Sorbian",
+            "target": "Upper Sorbian",
+            "sim": 13.762
+        },
+        {
+            "source": "English",
+            "target": "French",
+            "sim": 9.665
+        },
+        {
+            "source": "English",
+            "target": "Italian",
+            "sim": 6.757
+        },
+        {
+            "source": "English",
+            "target": "Portuguese",
+            "sim": 7.944
+        },
+        {
+            "source": "English",
+            "target": "Spanish",
+            "sim": 7.907
+        },
+        {
+            "source": "Esperanto",
+            "target": "Occitan",
+            "sim": 6.726
+        },
+        {
+            "source": "Esperanto",
+            "target": "Portuguese",
+            "sim": 7.275
+        },
+        {
+            "source": "Central Yupik",
+            "target": "Kabardian",
+            "sim": 8.885
+        },
+        {
+            "source": "Evenki",
+            "target": "Nanai",
+            "sim": 9.281
+        },
+        {
+            "source": "Evenki",
+            "target": "Komi-Permyak",
+            "sim": 10.402
+        },
+        {
+            "source": "Evenki",
+            "target": "Rusyn",
+            "sim": 7.568
+        },
+        {
+            "source": "Evenki",
+            "target": "Dongxiang",
+            "sim": 7.594
+        },
+        {
+            "source": "Extremaduran",
+            "target": "Mirandese",
+            "sim": 9.124
+        },
+        {
+            "source": "Extremaduran",
+            "target": "Venetian",
+            "sim": 7.446
+        },
+        {
+            "source": "Faroese",
+            "target": "Icelandic",
+            "sim": 7.423
+        },
+        {
+            "source": "Faroese",
+            "target": "Norwegian Nynorsk",
+            "sim": 7.743
+        },
+        {
+            "source": "Faroese",
+            "target": "Norwegian Bokm\u00e5l",
+            "sim": 6.523
+        },
+        {
+            "source": "Fijian",
+            "target": "Samoan",
+            "sim": 7.383
+        },
+        {
+            "source": "Fijian",
+            "target": "Tuvalu",
+            "sim": 8.418
+        },
+        {
+            "source": "French",
+            "target": "Galician",
+            "sim": 9.109
+        },
+        {
+            "source": "French",
+            "target": "Italian",
+            "sim": 9.544
+        },
+        {
+            "source": "French",
+            "target": "Portuguese",
+            "sim": 11.979
+        },
+        {
+            "source": "French",
+            "target": "Romanian",
+            "sim": 8.817
+        },
+        {
+            "source": "French",
+            "target": "Spanish",
+            "sim": 11.196
+        },
+        {
+            "source": "Northern Frisian",
+            "target": "Limburgan",
+            "sim": 7.59
+        },
+        {
+            "source": "Northern Frisian",
+            "target": "Low German",
+            "sim": 10.008
+        },
+        {
+            "source": "Northern Frisian",
+            "target": "Saterfriesisch",
+            "sim": 11.228
+        },
+        {
+            "source": "Western Frisian",
+            "target": "Luxembourgish",
+            "sim": 7.001
+        },
+        {
+            "source": "Friulian",
+            "target": "Latin",
+            "sim": 8.571
+        },
+        {
+            "source": "Friulian",
+            "target": "Ladin",
+            "sim": 6.578
+        },
+        {
+            "source": "Friulian",
+            "target": "Neapolitan",
+            "sim": 8.205
+        },
+        {
+            "source": "Friulian",
+            "target": "Occitan",
+            "sim": 12.977
+        },
+        {
+            "source": "Friulian",
+            "target": "Romansh",
+            "sim": 19.619
+        },
+        {
+            "source": "Friulian",
+            "target": "Macedo-Romanian",
+            "sim": 14.017
+        },
+        {
+            "source": "Friulian",
+            "target": "Sicilian",
+            "sim": 9.639
+        },
+        {
+            "source": "Friulian",
+            "target": "Venetian",
+            "sim": 10.318
+        },
+        {
+            "source": "Gagauz",
+            "target": "Kara-Kalpak",
+            "sim": 14.844
+        },
+        {
+            "source": "Gagauz",
+            "target": "Kirghiz",
+            "sim": 8.326
+        },
+        {
+            "source": "Gagauz",
+            "target": "Khakas",
+            "sim": 13.012
+        },
+        {
+            "source": "Gagauz",
+            "target": "Karachay-Balkar",
+            "sim": 14.165
+        },
+        {
+            "source": "Gagauz",
+            "target": "Kumyk",
+            "sim": 11.963
+        },
+        {
+            "source": "Gagauz",
+            "target": "Nogai",
+            "sim": 6.993
+        },
+        {
+            "source": "Gagauz",
+            "target": "Yakut",
+            "sim": 6.875
+        },
+        {
+            "source": "Gagauz",
+            "target": "Tatar",
+            "sim": 8.245
+        },
+        {
+            "source": "Gagauz",
+            "target": "Turkmen",
+            "sim": 7.487
+        },
+        {
+            "source": "Gagauz",
+            "target": "Tuvinian",
+            "sim": 6.694
+        },
+        {
+            "source": "Gan Chinese",
+            "target": "Nanai",
+            "sim": 7.566
+        },
+        {
+            "source": "Gan Chinese",
+            "target": "Wu Chinese",
+            "sim": 6.718
+        },
+        {
+            "source": "Scottish Gaelic",
+            "target": "Irish",
+            "sim": 8.486
+        },
+        {
+            "source": "Galician",
+            "target": "Italian",
+            "sim": 8.2
+        },
+        {
+            "source": "Galician",
+            "target": "Occitan",
+            "sim": 7.54
+        },
+        {
+            "source": "Galician",
+            "target": "Portuguese",
+            "sim": 14.994
+        },
+        {
+            "source": "Galician",
+            "target": "Romanian",
+            "sim": 7.071
+        },
+        {
+            "source": "Galician",
+            "target": "Spanish",
+            "sim": 18.223
+        },
+        {
+            "source": "Gujarati",
+            "target": "Kannada",
+            "sim": 14.712
+        },
+        {
+            "source": "Gujarati",
+            "target": "Kashmiri",
+            "sim": 7.456
+        },
+        {
+            "source": "Gujarati",
+            "target": "Konkani",
+            "sim": 17.321
+        },
+        {
+            "source": "Gujarati",
+            "target": "Malayalam",
+            "sim": 9.673
+        },
+        {
+            "source": "Gujarati",
+            "target": "Nepali",
+            "sim": 23.602
+        },
+        {
+            "source": "Gujarati",
+            "target": "Oriya",
+            "sim": 17.32
+        },
+        {
+            "source": "Gujarati",
+            "target": "Panjabi",
+            "sim": 20.399
+        },
+        {
+            "source": "Gujarati",
+            "target": "Sanskrit",
+            "sim": 15.98
+        },
+        {
+            "source": "Gujarati",
+            "target": "Telugu",
+            "sim": 9.569
+        },
+        {
+            "source": "Hakka Chinese",
+            "target": "Yue Chinese",
+            "sim": 19.67
+        },
+        {
+            "source": "Croatian",
+            "target": "Macedonian",
+            "sim": 8.744
+        },
+        {
+            "source": "Croatian",
+            "target": "Russian",
+            "sim": 7.037
+        },
+        {
+            "source": "Croatian",
+            "target": "Slovak",
+            "sim": 14.332
+        },
+        {
+            "source": "Croatian",
+            "target": "Slovenian",
+            "sim": 28.16
+        },
+        {
+            "source": "Indonesian",
+            "target": "Malay",
+            "sim": 70.725
+        },
+        {
+            "source": "Indonesian",
+            "target": "Standard Malay",
+            "sim": 39.924
+        },
+        {
+            "source": "Ingush",
+            "target": "Nenets",
+            "sim": 8.044
+        },
+        {
+            "source": "Icelandic",
+            "target": "Norwegian Nynorsk",
+            "sim": 7.083
+        },
+        {
+            "source": "Italian",
+            "target": "Portuguese",
+            "sim": 12.172
+        },
+        {
+            "source": "Italian",
+            "target": "Romanian",
+            "sim": 7.824
+        },
+        {
+            "source": "Italian",
+            "target": "Spanish",
+            "sim": 10.451
+        },
+        {
+            "source": "Ingrian",
+            "target": "Votic",
+            "sim": 10.09
+        },
+        {
+            "source": "Javanese",
+            "target": "Sundanese",
+            "sim": 10.839
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Kirghiz",
+            "sim": 7.094
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Khakas",
+            "sim": 14.381
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Karachay-Balkar",
+            "sim": 14.377
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Kumyk",
+            "sim": 10.447
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Nogai",
+            "sim": 9.613
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Yakut",
+            "sim": 8.192
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Tatar",
+            "sim": 7.289
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Tuvinian",
+            "sim": 7.449
+        },
+        {
+            "source": "Kabyle",
+            "target": "Tachelhit",
+            "sim": 10.162
+        },
+        {
+            "source": "Kabyle",
+            "target": "Central Atlas Tamazight",
+            "sim": 6.86
+        },
+        {
+            "source": "Kamba",
+            "target": "Kikuyu",
+            "sim": 10.806
+        },
+        {
+            "source": "Kamba",
+            "target": "Kis",
+            "sim": 9.071
+        },
+        {
+            "source": "Kannada",
+            "target": "Konkani",
+            "sim": 10.514
+        },
+        {
+            "source": "Kannada",
+            "target": "Malayalam",
+            "sim": 7.619
+        },
+        {
+            "source": "Kannada",
+            "target": "Nepali",
+            "sim": 13.584
+        },
+        {
+            "source": "Kannada",
+            "target": "Oriya",
+            "sim": 9.128
+        },
+        {
+            "source": "Kannada",
+            "target": "Panjabi",
+            "sim": 9.201
+        },
+        {
+            "source": "Kannada",
+            "target": "Sanskrit",
+            "sim": 10.557
+        },
+        {
+            "source": "Kannada",
+            "target": "Telugu",
+            "sim": 9.359
+        },
+        {
+            "source": "Kashmiri",
+            "target": "Panjabi",
+            "sim": 8.815
+        },
+        {
+            "source": "Kashmiri",
+            "target": "Urdu",
+            "sim": 8.038
+        },
+        {
+            "source": "Kazakh",
+            "target": "Kirghiz",
+            "sim": 15.3
+        },
+        {
+            "source": "Kazakh",
+            "target": "Karachay-Balkar",
+            "sim": 7.236
+        },
+        {
+            "source": "Kazakh",
+            "target": "Tatar",
+            "sim": 7.457
+        },
+        {
+            "source": "Kazakh",
+            "target": "Turkmen",
+            "sim": 8.359
+        },
+        {
+            "source": "Kikuyu",
+            "target": "Kis",
+            "sim": 7.468
+        },
+        {
+            "source": "Kikuyu",
+            "target": "Meru",
+            "sim": 7.524
+        },
+        {
+            "source": "Kirghiz",
+            "target": "Khakas",
+            "sim": 8.345
+        },
+        {
+            "source": "Kirghiz",
+            "target": "Karachay-Balkar",
+            "sim": 11.159
+        },
+        {
+            "source": "Kirghiz",
+            "target": "Kumyk",
+            "sim": 8.086
+        },
+        {
+            "source": "Kirghiz",
+            "target": "Tatar",
+            "sim": 10.056
+        },
+        {
+            "source": "Kirghiz",
+            "target": "Tajik",
+            "sim": 6.531
+        },
+        {
+            "source": "Kirghiz",
+            "target": "Turkmen",
+            "sim": 11.094
+        },
+        {
+            "source": "Kis",
+            "target": "Meru",
+            "sim": 15.366
+        },
+        {
+            "source": "Khakas",
+            "target": "Karachay-Balkar",
+            "sim": 15.872
+        },
+        {
+            "source": "Khakas",
+            "target": "Kumyk",
+            "sim": 12.068
+        },
+        {
+            "source": "Khakas",
+            "target": "Nogai",
+            "sim": 9.205
+        },
+        {
+            "source": "Khakas",
+            "target": "Yakut",
+            "sim": 9.464
+        },
+        {
+            "source": "Khakas",
+            "target": "Tatar",
+            "sim": 7.492
+        },
+        {
+            "source": "Khakas",
+            "target": "Tuvinian",
+            "sim": 12.668
+        },
+        {
+            "source": "Komi-Permyak",
+            "target": "Rusyn",
+            "sim": 15.039
+        },
+        {
+            "source": "Konkani",
+            "target": "Nepali",
+            "sim": 14.08
+        },
+        {
+            "source": "Konkani",
+            "target": "Oriya",
+            "sim": 11.74
+        },
+        {
+            "source": "Konkani",
+            "target": "Panjabi",
+            "sim": 12.409
+        },
+        {
+            "source": "Konkani",
+            "target": "Sanskrit",
+            "sim": 8.123
+        },
+        {
+            "source": "Karachay-Balkar",
+            "target": "Kumyk",
+            "sim": 18.344
+        },
+        {
+            "source": "Karachay-Balkar",
+            "target": "Nogai",
+            "sim": 8.76
+        },
+        {
+            "source": "Karachay-Balkar",
+            "target": "Tatar",
+            "sim": 9.345
+        },
+        {
+            "source": "Karachay-Balkar",
+            "target": "Turkmen",
+            "sim": 6.562
+        },
+        {
+            "source": "Karachay-Balkar",
+            "target": "Tuvinian",
+            "sim": 9.047
+        },
+        {
+            "source": "Karelian",
+            "target": "Veps",
+            "sim": 7.553
+        },
+        {
+            "source": "Kumyk",
+            "target": "Nogai",
+            "sim": 11.756
+        },
+        {
+            "source": "Kumyk",
+            "target": "Yakut",
+            "sim": 6.924
+        },
+        {
+            "source": "Kumyk",
+            "target": "Tuvinian",
+            "sim": 7.868
+        },
+        {
+            "source": "Latin",
+            "target": "Occitan",
+            "sim": 8.292
+        },
+        {
+            "source": "Latin",
+            "target": "Portuguese",
+            "sim": 7.991
+        },
+        {
+            "source": "Latin",
+            "target": "Romansh",
+            "sim": 9.081
+        },
+        {
+            "source": "Latin",
+            "target": "Macedo-Romanian",
+            "sim": 7.482
+        },
+        {
+            "source": "Lak",
+            "target": "Lezghian",
+            "sim": 12.913
+        },
+        {
+            "source": "Lak",
+            "target": "Kildin Sami",
+            "sim": 12.654
+        },
+        {
+            "source": "Liv",
+            "target": "V\u00f5ro",
+            "sim": 13.131
+        },
+        {
+            "source": "Ladin",
+            "target": "Piemontese",
+            "sim": 7.41
+        },
+        {
+            "source": "Ladin",
+            "target": "Venetian",
+            "sim": 7.584
+        },
+        {
+            "source": "Luxembourgish",
+            "target": "Low German",
+            "sim": 7.503
+        },
+        {
+            "source": "Malayalam",
+            "target": "Nepali",
+            "sim": 7.991
+        },
+        {
+            "source": "Malayalam",
+            "target": "Sanskrit",
+            "sim": 10.963
+        },
+        {
+            "source": "Malayalam",
+            "target": "Telugu",
+            "sim": 6.886
+        },
+        {
+            "source": "Moksha",
+            "target": "Western Mari",
+            "sim": 8.066
+        },
+        {
+            "source": "Moksha",
+            "target": "Erzya",
+            "sim": 13.049
+        },
+        {
+            "source": "Mi'kmaq",
+            "target": "Kildin Sami",
+            "sim": 9.651
+        },
+        {
+            "source": "Macedonian",
+            "target": "Russian",
+            "sim": 6.671
+        },
+        {
+            "source": "Macedonian",
+            "target": "Slovenian",
+            "sim": 6.812
+        },
+        {
+            "source": "Macedonian",
+            "target": "Ukrainian",
+            "sim": 7.913
+        },
+        {
+            "source": "Maori",
+            "target": "Rapanui",
+            "sim": 7.596
+        },
+        {
+            "source": "Maori",
+            "target": "Tahitian",
+            "sim": 9.158
+        },
+        {
+            "source": "Maori",
+            "target": "Tuvalu",
+            "sim": 9.173
+        },
+        {
+            "source": "Western Mari",
+            "target": "Erzya",
+            "sim": 6.679
+        },
+        {
+            "source": "Western Mari",
+            "target": "Udmurt",
+            "sim": 11.716
+        },
+        {
+            "source": "Malay",
+            "target": "Standard Malay",
+            "sim": 43.057
+        },
+        {
+            "source": "Mirandese",
+            "target": "Occitan",
+            "sim": 6.74
+        },
+        {
+            "source": "Min Nan Chinese",
+            "target": "Yue Chinese",
+            "sim": 7.219
+        },
+        {
+            "source": "Neapolitan",
+            "target": "Piemontese",
+            "sim": 9.333
+        },
+        {
+            "source": "Neapolitan",
+            "target": "Romansh",
+            "sim": 8.446
+        },
+        {
+            "source": "Neapolitan",
+            "target": "Sicilian",
+            "sim": 6.97
+        },
+        {
+            "source": "Neapolitan",
+            "target": "Venetian",
+            "sim": 6.904
+        },
+        {
+            "source": "Nepali",
+            "target": "Oriya",
+            "sim": 16.287
+        },
+        {
+            "source": "Nepali",
+            "target": "Panjabi",
+            "sim": 16.464
+        },
+        {
+            "source": "Nepali",
+            "target": "Sanskrit",
+            "sim": 12.736
+        },
+        {
+            "source": "Nepali",
+            "target": "Telugu",
+            "sim": 8.574
+        },
+        {
+            "source": "Dutch",
+            "target": "Norwegian Nynorsk",
+            "sim": 7.165
+        },
+        {
+            "source": "Dutch",
+            "target": "Norwegian Bokm\u00e5l",
+            "sim": 6.695
+        },
+        {
+            "source": "Norwegian Nynorsk",
+            "target": "Norwegian Bokm\u00e5l",
+            "sim": 33.574
+        },
+        {
+            "source": "Norwegian Nynorsk",
+            "target": "Swedish",
+            "sim": 13.608
+        },
+        {
+            "source": "Norwegian Bokm\u00e5l",
+            "target": "Swedish",
+            "sim": 13.299
+        },
+        {
+            "source": "Nogai",
+            "target": "Tuvinian",
+            "sim": 6.599
+        },
+        {
+            "source": "Occitan",
+            "target": "Portuguese",
+            "sim": 8.411
+        },
+        {
+            "source": "Occitan",
+            "target": "Romansh",
+            "sim": 14.539
+        },
+        {
+            "source": "Occitan",
+            "target": "Macedo-Romanian",
+            "sim": 8.982
+        },
+        {
+            "source": "Occitan",
+            "target": "Sicilian",
+            "sim": 9.514
+        },
+        {
+            "source": "Occitan",
+            "target": "Spanish",
+            "sim": 6.94
+        },
+        {
+            "source": "Oriya",
+            "target": "Panjabi",
+            "sim": 13.158
+        },
+        {
+            "source": "Oriya",
+            "target": "Sanskrit",
+            "sim": 9.418
+        },
+        {
+            "source": "Pangasinan",
+            "target": "Pampanga",
+            "sim": 7.616
+        },
+        {
+            "source": "Panjabi",
+            "target": "Sanskrit",
+            "sim": 8.055
+        },
+        {
+            "source": "Panjabi",
+            "target": "Urdu",
+            "sim": 8.681
+        },
+        {
+            "source": "Pitjantjatjara",
+            "target": "Warlpiri",
+            "sim": 7.703
+        },
+        {
+            "source": "Portuguese",
+            "target": "Romanian",
+            "sim": 9.065
+        },
+        {
+            "source": "Portuguese",
+            "target": "Spanish",
+            "sim": 17.414
+        },
+        {
+            "source": "Rapanui",
+            "target": "Tonga",
+            "sim": 7.594
+        },
+        {
+            "source": "Rapanui",
+            "target": "Tuvalu",
+            "sim": 7.998
+        },
+        {
+            "source": "Romansh",
+            "target": "Macedo-Romanian",
+            "sim": 14.938
+        },
+        {
+            "source": "Romansh",
+            "target": "Sicilian",
+            "sim": 10.26
+        },
+        {
+            "source": "Romansh",
+            "target": "Venetian",
+            "sim": 8.028
+        },
+        {
+            "source": "Romanian",
+            "target": "Spanish",
+            "sim": 8.428
+        },
+        {
+            "source": "Macedo-Romanian",
+            "target": "Sicilian",
+            "sim": 7.021
+        },
+        {
+            "source": "Russian",
+            "target": "Slovak",
+            "sim": 6.566
+        },
+        {
+            "source": "Russian",
+            "target": "Ukrainian",
+            "sim": 8.148
+        },
+        {
+            "source": "Sanskrit",
+            "target": "Telugu",
+            "sim": 9.213
+        },
+        {
+            "source": "Sicilian",
+            "target": "Venetian",
+            "sim": 8.246
+        },
+        {
+            "source": "Sassarese Sardinian",
+            "target": "Gallurese Sardinian",
+            "sim": 20.45
+        },
+        {
+            "source": "Sassarese Sardinian",
+            "target": "Logudorese Sardinian",
+            "sim": 16.665
+        },
+        {
+            "source": "Sassarese Sardinian",
+            "target": "Campidanese Sardinian",
+            "sim": 17.016
+        },
+        {
+            "source": "Gallurese Sardinian",
+            "target": "Logudorese Sardinian",
+            "sim": 14.877
+        },
+        {
+            "source": "Gallurese Sardinian",
+            "target": "Campidanese Sardinian",
+            "sim": 13.968
+        },
+        {
+            "source": "Tachelhit",
+            "target": "Central Atlas Tamazight",
+            "sim": 19.59
+        },
+        {
+            "source": "Slovak",
+            "target": "Slovenian",
+            "sim": 12.131
+        },
+        {
+            "source": "Samoan",
+            "target": "Bau Bidayuh",
+            "sim": 6.667
+        },
+        {
+            "source": "Samoan",
+            "target": "Tahitian",
+            "sim": 11.202
+        },
+        {
+            "source": "Samoan",
+            "target": "Tonga",
+            "sim": 12.444
+        },
+        {
+            "source": "Samoan",
+            "target": "Tuvalu",
+            "sim": 70.639
+        },
+        {
+            "source": "Logudorese Sardinian",
+            "target": "Campidanese Sardinian",
+            "sim": 19.191
+        },
+        {
+            "source": "Tahitian",
+            "target": "Tuvalu",
+            "sim": 18.734
+        },
+        {
+            "source": "Tatar",
+            "target": "Turkmen",
+            "sim": 6.885
+        },
+        {
+            "source": "Tonga",
+            "target": "Tuvalu",
+            "sim": 18.623
+        },
+        {
+            "source": "Tuvalu",
+            "target": "Waray",
+            "sim": 6.877
+        },
+        {
+            "source": "Veps",
+            "target": "V\u00f5ro",
+            "sim": 10.161
+        },
+        {
+            "source": "Xhosa",
+            "target": "Zulu",
+            "sim": 14.443
+        }
+    ]
+}
