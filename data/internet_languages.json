@@ -1,1936 +1,2580 @@
 {
     "nodes": [
         {
-            "id": "Hakka Chinese",
-            "size": 0,
-            "speakers": 44.1,
-            "type": "aural"
-        },
-        {
-            "id": "Kamba",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "English",
-            "size": 57.2,
-            "speakers": 1452.0,
+            "id": "Japanese",
+            "size": 3.3,
+            "speakers": 125.4,
+            "overrep": "1",
+            "empire": "1",
             "type": "digital"
         },
         {
-            "id": "Komi-Permyak",
+            "id": "Georgian",
             "size": 0,
             "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Northern Frisian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Northern Tiwa",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Portuguese",
-            "size": 1.9,
-            "speakers": 257.7,
-            "type": "digital"
-        },
-        {
-            "id": "Balinese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kildin Sami",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Breton",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ingrian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "?X\u00f3\u00f5",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Hindi",
-            "size": 0.1,
-            "speakers": 602.2,
-            "type": "digital"
-        },
-        {
-            "id": "Navajo",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Western Abnaki",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Burmese",
-            "size": 0,
-            "speakers": 43.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tachelhit",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Basque",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Warlpiri",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Sicilian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ingush",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Achinese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kannada",
-            "size": 0,
-            "speakers": 64.0,
-            "type": "aural"
-        },
-        {
-            "id": "Karelian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Campidanese Sardinian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Turkmen",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Hungarian",
-            "size": 0.4,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Wolof",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ainu",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Nepali",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Bakhtiari",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Samoan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Southern Altai",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Corsican",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Standard Malay",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Santali",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Madurese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Lushai",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tok Pisin",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Nanai",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Yucateco",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Walloon",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Shor",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Sundanese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Yoruba",
-            "size": 0,
-            "speakers": 45.6,
-            "type": "aural"
-        },
-        {
-            "id": "Piemontese",
-            "size": 0,
-            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
             "id": "Swiss German",
             "size": 0,
             "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Abkhazian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Amharic",
-            "size": 0,
-            "speakers": 57.5,
-            "type": "aural"
-        },
-        {
-            "id": "Tuvinian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Chuvash",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Norwegian Nynorsk",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Sassarese Sardinian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Laz",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Church Slavic",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Iloko",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Wu Chinese",
-            "size": 0,
-            "speakers": 81.8,
-            "type": "aural"
-        },
-        {
-            "id": "Banjar",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Lak",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Silesian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Thai",
-            "size": 0.5,
-            "speakers": 60.7,
-            "type": "digital"
-        },
-        {
-            "id": "Oriya",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Votic",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Uighur",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Igbo",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Abaza",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Prussian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Romagnol",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Modern Greek",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "French",
-            "size": 4.1,
-            "speakers": 274.1,
-            "type": "digital"
-        },
-        {
-            "id": "Montagnais",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Bambara",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Talysh",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Vietnamese",
-            "size": 1.3,
-            "speakers": 85.3,
-            "type": "digital"
-        },
-        {
-            "id": "Erzya",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Cebuano",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Central Melanau",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ama",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Udmurt",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kabyle",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tonga",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Belarusian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Samogitian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Nogai",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ancient Greek",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Konkani",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Veps",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Fijian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Danish",
-            "size": 0.3,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Western Apache",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Northern Kurdish",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kalmyk",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Sichuan Yi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Waray",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Dungan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Haitian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Wymysorys",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Mi'kmaq",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Gagauz",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Dongxiang",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kumyk",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Algonquin",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Slovenian",
-            "size": 0.1,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Minangkabau",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Hawaiian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Central Bikol",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Dhivehi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Lezghian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Asturian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Hebrew",
-            "size": 0.5,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Papiamento",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Northern Sami",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Upper Sorbian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Japanese",
-            "size": 3.3,
-            "speakers": 125.4,
-            "type": "digital"
-        },
-        {
-            "id": "Indonesian",
-            "size": 0.6,
-            "speakers": 199.0,
-            "type": "digital"
-        },
-        {
-            "id": "Mandarin Chinese",
-            "size": 0,
-            "speakers": 1118.0,
-            "type": "aural"
-        },
-        {
-            "id": "Western Frisian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Krio",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Cheyenne",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Slovak",
-            "size": 0.2,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Ket",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Luo",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ossetian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Polish",
-            "size": 1.2,
-            "speakers": 40.6,
-            "type": "digital"
-        },
-        {
-            "id": "Hausa",
-            "size": 0,
-            "speakers": 77.1,
-            "type": "aural"
-        },
-        {
-            "id": "Dutch",
-            "size": 1.2,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Yakut",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Malay",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Western Panjabi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Chinese",
-            "size": 1.6,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Khmer",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Pampanga",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Pedi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Xhosa",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Spanish",
-            "size": 4.6,
-            "speakers": 548.3,
-            "type": "digital"
-        },
-        {
-            "id": "Gallurese Sardinian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Khakas",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kashmiri",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Dakota",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tetum",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Pennsylvania German",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Luxembourgish",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Russian",
-            "size": 5.3,
-            "speakers": 258.2,
-            "type": "digital"
-        },
-        {
-            "id": "Liv",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Assamese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Extremaduran",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Zulu",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Welsh",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Macedo-Romanian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Yue Chinese",
-            "size": 0,
-            "speakers": 85.6,
-            "type": "aural"
-        },
-        {
-            "id": "Albanian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Avestan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Miyako",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kikuyu",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Sindhi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Crimean Tatar",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Maltese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Coptic",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Persian",
-            "size": 2.1,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Min Dong Chinese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Latin",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Archi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kalaallisut",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Finnish",
-            "size": 0.2,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Tahitian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tswana",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Friulian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Bislama",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Logudorese Sardinian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Central Kurdish",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Uab Meto",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Hiligaynon",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Pali",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Gheg Albanian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Georgian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Eastern Mari",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Lithuanian",
-            "size": 0.1,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Tagalog",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Manx",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tai Dam",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Standard Arabic",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tibetan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "M\u00f3cheno",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tigrinya",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Saterfriesisch",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Dzongkha",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Cornish",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Sinhala",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "K\u00f6lsch",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Esperanto",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Khoekhoe",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Chamorro",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ewe",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Min Nan Chinese",
-            "size": 0,
-            "speakers": 49.7,
-            "type": "aural"
-        },
-        {
-            "id": "Jamaican Creole English",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Macedonian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Swati",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Rapanui",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Gilbertese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Guadeloupean Creole French",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kalo Finnish Romani",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Bulgarian",
-            "size": 0.2,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Chamicuro",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tuvalu",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Lombard",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Latgalian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kazakh",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Inari Sami",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Croatian",
-            "size": 0.1,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Central Atlas Tamazight",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Dogrib",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Mirandese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Czech",
-            "size": 0.6,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Turkish",
-            "size": 2.5,
-            "speakers": 88.1,
-            "type": "digital"
-        },
-        {
-            "id": "Nyanja",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Chechen",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Malayalam",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Armenian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Scottish Gaelic",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Cherokee",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Pipil",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Neapolitan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Telugu",
-            "size": 0,
-            "speakers": 95.7,
-            "type": "aural"
-        },
-        {
-            "id": "Swedish",
-            "size": 0.4,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Adyghe",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kis",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Icelandic",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Somali",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Lower Sorbian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Gan Chinese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Korean",
-            "size": 0.7,
-            "speakers": 81.7,
-            "type": "digital"
-        },
-        {
-            "id": "Powhatan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Buginese",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tatar",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tamil",
-            "size": 0,
-            "speakers": 86.4,
-            "type": "aural"
-        },
-        {
-            "id": "Seri",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tajik",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Western Mari",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Skolt Sami",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Gujarati",
-            "size": 0,
-            "speakers": 62.0,
-            "type": "aural"
-        },
-        {
-            "id": "Manchu",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Karachay-Balkar",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Rusyn",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Scots",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Lakota",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Rohingya",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Norwegian Bokm\u00e5l",
-            "size": 0.1,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Kinyarwanda",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Urdu",
-            "size": 0,
-            "speakers": 231.3,
-            "type": "aural"
-        },
-        {
-            "id": "Pitjantjatjara",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Sanskrit",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Guerrero Amuzgo",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Nenets",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Mongolian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Aleut",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Venda",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Evenki",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Central Yupik",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Catalan",
-            "size": 0.1,
-            "speakers": 1.0,
-            "type": "digital"
-        },
-        {
-            "id": "Hopi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Shona",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Eshtehardi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kashubian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Mazanderani",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ganda",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Lingala",
-            "size": 0,
-            "speakers": 40.3,
-            "type": "aural"
-        },
-        {
-            "id": "Nauru",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Meru",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Venetian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Pitcairn-Norfolk",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Panjabi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Sranan Tongo",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Manipuri",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Javanese",
-            "size": 0,
-            "speakers": 68.3,
-            "type": "aural"
-        },
-        {
-            "id": "Ladin",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ladino",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Ligurian",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Tohono O'odham",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Bashkir",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Occitan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Southern Sotho",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Pangasinan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Kirghiz",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Avaric",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Baure",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Bau Bidayuh",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Mandinka",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Italian",
-            "size": 1.7,
-            "speakers": 67.9,
-            "type": "digital"
-        },
-        {
-            "id": "Arpitan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Chinook jargon",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Romansh",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Irish",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Bor\u00f4ro",
-            "size": 0,
-            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
             "id": "Russia Buriat",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Kara-Kalpak",
+            "id": "Logudorese Sardinian",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "German",
-            "size": 3.9,
+            "id": "Cebuano",
+            "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Bashkir",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Western Apache",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Central Melanau",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Santali",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "K\u00f6lsch",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Hawaiian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Northern Frisian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Erzya",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Walloon",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Khakas",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Samogitian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Dogrib",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Min Dong Chinese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Latin",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Macedonian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Lushai",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tohono O'odham",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tatar",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Krio",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Russian",
+            "size": 5.3,
+            "speakers": 258.2,
+            "overrep": "1",
+            "empire": "0",
             "type": "digital"
         },
         {
-            "id": "V\u00f5ro",
+            "id": "Sichuan Yi",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Afrikaans",
+            "id": "Miyako",
             "size": 0,
             "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Galician",
-            "size": 0,
-            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
             "id": "Faroese",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Mingrelian",
+            "id": "Western Panjabi",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Bodo",
+            "id": "Fijian",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Dolgan",
+            "id": "Pali",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Alviri-Vidari",
+            "id": "Lak",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Limburgan",
+            "id": "Bor\u00f4ro",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Marathi",
-            "size": 0,
-            "speakers": 99.1,
-            "type": "aural"
-        },
-        {
-            "id": "Bavarian",
+            "id": "Khmer",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Aragonese",
+            "id": "Tibetan",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Bengali",
-            "size": 0,
-            "speakers": 272.7,
-            "type": "aural"
-        },
-        {
-            "id": "Maori",
+            "id": "Sinhala",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Ukrainian",
-            "size": 0.6,
+            "id": "Nanai",
+            "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Norwegian Nynorsk",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Crimean Tatar",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Mazanderani",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Abkhazian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Abaza",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Wymysorys",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Mandinka",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Mandarin Chinese",
+            "size": 1.6,
+            "speakers": 1118.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "digital"
         },
         {
-            "id": "Vlaams",
+            "id": "Luo",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Kabardian",
+            "id": "Yue Chinese",
             "size": 0,
-            "speakers": 1.0,
+            "speakers": 85.6,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Lao",
+            "id": "Tahitian",
             "size": 0,
             "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Fiji Hindi",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Egyptian Arabic",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Moksha",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Central Okinawan",
-            "size": 0,
-            "speakers": 1.0,
-            "type": "aural"
-        },
-        {
-            "id": "Low German",
-            "size": 0,
-            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
             "id": "Moroccan Arabic",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Karachay-Balkar",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Powhatan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Hungarian",
+            "size": 0.4,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Macedo-Romanian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Lithuanian",
+            "size": 0.1,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Norwegian Bokm\u00e5l",
+            "size": 0.1,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Turkmen",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Mingrelian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ligurian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Irish",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Pitcairn-Norfolk",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Asturian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Southern Sotho",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Nepali",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Yoruba",
+            "size": 0,
+            "speakers": 45.6,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Pitjantjatjara",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Rusyn",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Pipil",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tuvalu",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kinyarwanda",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Shona",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Western Frisian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ladino",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Saterfriesisch",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Aleut",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Sranan Tongo",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Banjar",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tai Dam",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Cheyenne",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Liv",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Malay",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Western Mari",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ingrian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Zulu",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Lingala",
+            "size": 0,
+            "speakers": 40.3,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Gan Chinese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Hakka Chinese",
+            "size": 0,
+            "speakers": 44.1,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kis",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ganda",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Basque",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Avestan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Panjabi",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Skolt Sami",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Dutch",
+            "size": 1.2,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "1",
+            "type": "digital"
+        },
+        {
+            "id": "Northern Kurdish",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kildin Sami",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Coptic",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tonga",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Maltese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Romagnol",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Iloko",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Karelian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Haitian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Xhosa",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Guadeloupean Creole French",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Portuguese",
+            "size": 1.9,
+            "speakers": 257.7,
+            "overrep": "0",
+            "empire": "1",
+            "type": "digital"
+        },
+        {
+            "id": "Navajo",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Hindi",
+            "size": 0.1,
+            "speakers": 602.2,
+            "overrep": "0",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Dakota",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "French",
+            "size": 4.1,
+            "speakers": 274.1,
+            "overrep": "1",
+            "empire": "1",
+            "type": "digital"
+        },
+        {
+            "id": "Madurese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Swedish",
+            "size": 0.4,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Slovak",
+            "size": 0.2,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Standard Arabic",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Low German",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Guerrero Amuzgo",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Dungan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kannada",
+            "size": 0,
+            "speakers": 64.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Moksha",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Breton",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "English",
+            "size": 57.2,
+            "speakers": 1452.0,
+            "overrep": "1",
+            "empire": "1",
+            "type": "digital"
+        },
+        {
+            "id": "Swati",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ancient Greek",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Chamicuro",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Hebrew",
+            "size": 0.5,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Romanian",
+            "size": 0.4,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Meru",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
             "id": "Udi",
             "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
             "type": "aural"
         },
         {
-            "id": "Romanian",
-            "size": 0.4,
+            "id": "Neapolitan",
+            "size": 0,
             "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Marathi",
+            "size": 0,
+            "speakers": 99.1,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Esperanto",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Laz",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Bavarian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Chuvash",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Finnish",
+            "size": 0.2,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
             "type": "digital"
+        },
+        {
+            "id": "Campidanese Sardinian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Udmurt",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Uighur",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Nauru",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Limburgan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Bau Bidayuh",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tok Pisin",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Bambara",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Vlaams",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Belarusian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kabyle",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Bengali",
+            "size": 0,
+            "speakers": 272.7,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tigrinya",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Turkish",
+            "size": 2.5,
+            "speakers": 88.1,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Mi'kmaq",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Southern Altai",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Sicilian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Pedi",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Manipuri",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Afrikaans",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Central Okinawan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Dolgan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Luxembourgish",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Western Abnaki",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Chinese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ket",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Friulian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Manx",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ewe",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Somali",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Inari Sami",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Khoekhoe",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ingush",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tetum",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Venetian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Algonquin",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ladin",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Extremaduran",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Amharic",
+            "size": 0,
+            "speakers": 57.5,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Danish",
+            "size": 0.3,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Bodo",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Pampanga",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tajik",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Dongxiang",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Modern Greek",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Sanskrit",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "V\u00f5ro",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Baure",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Italian",
+            "size": 1.7,
+            "speakers": 67.9,
+            "overrep": "1",
+            "empire": "1",
+            "type": "digital"
+        },
+        {
+            "id": "Central Bikol",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Achinese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Romansh",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Urdu",
+            "size": 0,
+            "speakers": 231.3,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Veps",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Sassarese Sardinian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Nyanja",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tuvinian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Bislama",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Scots",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Indonesian",
+            "size": 0.6,
+            "speakers": 199.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Cherokee",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Hiligaynon",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Lezghian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Thai",
+            "size": 0.5,
+            "speakers": 60.7,
+            "overrep": "0",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Sindhi",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Spanish",
+            "size": 4.6,
+            "speakers": 548.3,
+            "overrep": "0",
+            "empire": "1",
+            "type": "digital"
+        },
+        {
+            "id": "Jamaican Creole English",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Dhivehi",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Gagauz",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kalaallisut",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Hopi",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Corsican",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ainu",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Rohingya",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Slovenian",
+            "size": 0.1,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Tachelhit",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Korean",
+            "size": 0.7,
+            "speakers": 81.7,
+            "overrep": "0",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Tswana",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kirghiz",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Evenki",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Warlpiri",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Polish",
+            "size": 1.2,
+            "speakers": 40.6,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Mongolian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Alviri-Vidari",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Maori",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Arpitan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Seri",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Min Nan Chinese",
+            "size": 0,
+            "speakers": 49.7,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Gilbertese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Czech",
+            "size": 0.6,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Aragonese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Croatian",
+            "size": 0.1,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Kabardian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Albanian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Northern Tiwa",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Latgalian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Lakota",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Eshtehardi",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ama",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kashmiri",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Central Kurdish",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Minangkabau",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Samoan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Talysh",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tamil",
+            "size": 0,
+            "speakers": 86.4,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kara-Kalpak",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Javanese",
+            "size": 0,
+            "speakers": 68.3,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Central Atlas Tamazight",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Central Yupik",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Adyghe",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Pangasinan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Vietnamese",
+            "size": 1.3,
+            "speakers": 85.3,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Fiji Hindi",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Standard Malay",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Avaric",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Chamorro",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Persian",
+            "size": 2.1,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Mirandese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Icelandic",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Prussian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "?X\u00f3\u00f5",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Cornish",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Tagalog",
+            "size": 0,
+            "speakers": 82.3,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Armenian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Gujarati",
+            "size": 0,
+            "speakers": 62.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kumyk",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Scottish Gaelic",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ossetian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kashubian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Ukrainian",
+            "size": 0.6,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Kazakh",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Uab Meto",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Venda",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Gheg Albanian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Waray",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "German",
+            "size": 3.9,
+            "speakers": 134.6,
+            "overrep": "1",
+            "empire": "1",
+            "type": "digital"
+        },
+        {
+            "id": "Gallurese Sardinian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Montagnais",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "M\u00f3cheno",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Rapanui",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Silesian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Northern Sami",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Papiamento",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Archi",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Malayalam",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Igbo",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Dzongkha",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Nogai",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kalmyk",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Telugu",
+            "size": 0,
+            "speakers": 95.7,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kalo Finnish Romani",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Chinook jargon",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Assamese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Wolof",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Oriya",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Occitan",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Pennsylvania German",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Manchu",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Balinese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Upper Sorbian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Lower Sorbian",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Catalan",
+            "size": 0.1,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Nenets",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Welsh",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Komi-Permyak",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Buginese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Votic",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Yakut",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Galician",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Konkani",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Sundanese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Chechen",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Piemontese",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kikuyu",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Yucateco",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Eastern Mari",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Shor",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Lombard",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Burmese",
+            "size": 0,
+            "speakers": 43.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Kamba",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Bulgarian",
+            "size": 0.2,
+            "speakers": 1.0,
+            "overrep": "1",
+            "empire": "0",
+            "type": "digital"
+        },
+        {
+            "id": "Wu Chinese",
+            "size": 0,
+            "speakers": 81.8,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Hausa",
+            "size": 0,
+            "speakers": 77.1,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Church Slavic",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Lao",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Egyptian Arabic",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
+        },
+        {
+            "id": "Bakhtiari",
+            "size": 0,
+            "speakers": 1.0,
+            "overrep": "0",
+            "empire": "0",
+            "type": "aural"
         }
     ],
     "links": [
@@ -1961,6 +2605,11 @@
         },
         {
             "source": "Achinese",
+            "target": "Balinese",
+            "sim": 6.392
+        },
+        {
+            "source": "Achinese",
             "target": "Buginese",
             "sim": 31.506
         },
@@ -1968,6 +2617,16 @@
             "source": "Adyghe",
             "target": "Kabardian",
             "sim": 100.0
+        },
+        {
+            "source": "Afrikaans",
+            "target": "Danish",
+            "sim": 6.235
+        },
+        {
+            "source": "Afrikaans",
+            "target": "German",
+            "sim": 6.184
         },
         {
             "source": "Afrikaans",
@@ -2081,8 +2740,18 @@
         },
         {
             "source": "Aragonese",
+            "target": "Ladin",
+            "sim": 6.171
+        },
+        {
+            "source": "Aragonese",
             "target": "Mirandese",
             "sim": 9.984
+        },
+        {
+            "source": "Aragonese",
+            "target": "Neapolitan",
+            "sim": 6.498
         },
         {
             "source": "Aragonese",
@@ -2166,6 +2835,11 @@
         },
         {
             "source": "Asturian",
+            "target": "Italian",
+            "sim": 6.465
+        },
+        {
+            "source": "Asturian",
             "target": "Latin",
             "sim": 8.036
         },
@@ -2191,6 +2865,11 @@
         },
         {
             "source": "Asturian",
+            "target": "Macedo-Romanian",
+            "sim": 6.096
+        },
+        {
+            "source": "Asturian",
             "target": "Sicilian",
             "sim": 7.28
         },
@@ -2213,6 +2892,21 @@
             "source": "Avaric",
             "target": "Lak",
             "sim": 7.94
+        },
+        {
+            "source": "Avaric",
+            "target": "Lezghian",
+            "sim": 6.182
+        },
+        {
+            "source": "Bashkir",
+            "target": "Chuvash",
+            "sim": 6.491
+        },
+        {
+            "source": "Bashkir",
+            "target": "Crimean Tatar",
+            "sim": 6.328
         },
         {
             "source": "Bashkir",
@@ -2251,8 +2945,18 @@
         },
         {
             "source": "Bashkir",
+            "target": "Yakut",
+            "sim": 6.076
+        },
+        {
+            "source": "Bashkir",
             "target": "Tatar",
             "sim": 15.083
+        },
+        {
+            "source": "Bashkir",
+            "target": "Turkmen",
+            "sim": 6.472
         },
         {
             "source": "Balinese",
@@ -2268,6 +2972,16 @@
             "source": "Central Bikol",
             "target": "Waray",
             "sim": 13.055
+        },
+        {
+            "source": "Belarusian",
+            "target": "Bulgarian",
+            "sim": 6.222
+        },
+        {
+            "source": "Belarusian",
+            "target": "Czech",
+            "sim": 6.448
         },
         {
             "source": "Belarusian",
@@ -2335,6 +3049,11 @@
             "sim": 11.043
         },
         {
+            "source": "Bakhtiari",
+            "target": "Talysh",
+            "sim": 6.186
+        },
+        {
             "source": "Bodo",
             "target": "Nepali",
             "sim": 6.857
@@ -2380,6 +3099,11 @@
             "sim": 8.084
         },
         {
+            "source": "Bulgarian",
+            "target": "Ukrainian",
+            "sim": 6.208
+        },
+        {
             "source": "Russia Buriat",
             "target": "Evenki",
             "sim": 13.726
@@ -2401,6 +3125,11 @@
         },
         {
             "source": "Catalan",
+            "target": "Basque",
+            "sim": 6.338
+        },
+        {
+            "source": "Catalan",
             "target": "French",
             "sim": 12.214
         },
@@ -2413,6 +3142,11 @@
             "source": "Catalan",
             "target": "Italian",
             "sim": 11.194
+        },
+        {
+            "source": "Catalan",
+            "target": "Latin",
+            "sim": 6.21
         },
         {
             "source": "Catalan",
@@ -2445,6 +3179,21 @@
             "sim": 6.712
         },
         {
+            "source": "Min Dong Chinese",
+            "target": "Wu Chinese",
+            "sim": 6.245
+        },
+        {
+            "source": "Cebuano",
+            "target": "Hiligaynon",
+            "sim": 6.474
+        },
+        {
+            "source": "Cebuano",
+            "target": "Pangasinan",
+            "sim": 6.051
+        },
+        {
             "source": "Cebuano",
             "target": "Pampanga",
             "sim": 7.346
@@ -2466,6 +3215,11 @@
         },
         {
             "source": "Czech",
+            "target": "Russian",
+            "sim": 6.17
+        },
+        {
+            "source": "Czech",
             "target": "Slovak",
             "sim": 16.481
         },
@@ -2475,14 +3229,34 @@
             "sim": 7.662
         },
         {
+            "source": "Czech",
+            "target": "Ukrainian",
+            "sim": 6.344
+        },
+        {
             "source": "Chechen",
             "target": "Ingush",
             "sim": 21.748
         },
         {
             "source": "Chuvash",
+            "target": "Gagauz",
+            "sim": 6.065
+        },
+        {
+            "source": "Chuvash",
             "target": "Khakas",
             "sim": 7.16
+        },
+        {
+            "source": "Chuvash",
+            "target": "Kumyk",
+            "sim": 6.008
+        },
+        {
+            "source": "Chuvash",
+            "target": "Yakut",
+            "sim": 6.241
         },
         {
             "source": "Shor",
@@ -2531,6 +3305,11 @@
         },
         {
             "source": "Corsican",
+            "target": "Ladin",
+            "sim": 6.487
+        },
+        {
+            "source": "Corsican",
             "target": "Macedo-Romanian",
             "sim": 6.579
         },
@@ -2551,13 +3330,28 @@
         },
         {
             "source": "Crimean Tatar",
+            "target": "Kirghiz",
+            "sim": 6.142
+        },
+        {
+            "source": "Crimean Tatar",
             "target": "Karachay-Balkar",
             "sim": 8.176
         },
         {
             "source": "Crimean Tatar",
+            "target": "Kumyk",
+            "sim": 6.166
+        },
+        {
+            "source": "Crimean Tatar",
             "target": "Tatar",
             "sim": 7.073
+        },
+        {
+            "source": "Crimean Tatar",
+            "target": "Turkish",
+            "sim": 6.004
         },
         {
             "source": "Kashubian",
@@ -2588,6 +3382,11 @@
             "source": "Danish",
             "target": "Faroese",
             "sim": 6.704
+        },
+        {
+            "source": "Danish",
+            "target": "Western Frisian",
+            "sim": 6.051
         },
         {
             "source": "Danish",
@@ -2630,6 +3429,11 @@
             "sim": 7.119
         },
         {
+            "source": "German",
+            "target": "Swedish",
+            "sim": 6.418
+        },
+        {
             "source": "Dolgan",
             "target": "Gagauz",
             "sim": 7.955
@@ -2666,8 +3470,18 @@
         },
         {
             "source": "English",
+            "target": "Galician",
+            "sim": 6.197
+        },
+        {
+            "source": "English",
             "target": "Italian",
             "sim": 6.757
+        },
+        {
+            "source": "English",
+            "target": "Dutch",
+            "sim": 6.081
         },
         {
             "source": "English",
@@ -2676,8 +3490,23 @@
         },
         {
             "source": "English",
+            "target": "Romanian",
+            "sim": 6.194
+        },
+        {
+            "source": "English",
             "target": "Spanish",
             "sim": 7.907
+        },
+        {
+            "source": "Esperanto",
+            "target": "French",
+            "sim": 6.052
+        },
+        {
+            "source": "Esperanto",
+            "target": "Italian",
+            "sim": 6.123
         },
         {
             "source": "Esperanto",
@@ -2693,6 +3522,11 @@
             "source": "Central Yupik",
             "target": "Kabardian",
             "sim": 8.885
+        },
+        {
+            "source": "Basque",
+            "target": "Portuguese",
+            "sim": 6.199
         },
         {
             "source": "Evenki",
@@ -2723,6 +3557,11 @@
             "source": "Extremaduran",
             "target": "Venetian",
             "sim": 7.446
+        },
+        {
+            "source": "Faroese",
+            "target": "Western Frisian",
+            "sim": 6.097
         },
         {
             "source": "Faroese",
@@ -2761,6 +3600,11 @@
         },
         {
             "source": "French",
+            "target": "Occitan",
+            "sim": 6.145
+        },
+        {
+            "source": "French",
             "target": "Portuguese",
             "sim": 11.979
         },
@@ -2781,6 +3625,11 @@
         },
         {
             "source": "Northern Frisian",
+            "target": "Luxembourgish",
+            "sim": 6.022
+        },
+        {
+            "source": "Northern Frisian",
             "target": "Low German",
             "sim": 10.008
         },
@@ -2793,6 +3642,21 @@
             "source": "Western Frisian",
             "target": "Luxembourgish",
             "sim": 7.001
+        },
+        {
+            "source": "Western Frisian",
+            "target": "Low German",
+            "sim": 6.223
+        },
+        {
+            "source": "Western Frisian",
+            "target": "Dutch",
+            "sim": 6.175
+        },
+        {
+            "source": "Western Frisian",
+            "target": "Norwegian Nynorsk",
+            "sim": 6.185
         },
         {
             "source": "Friulian",
@@ -2906,6 +3770,11 @@
         },
         {
             "source": "Galician",
+            "target": "Latin",
+            "sim": 6.107
+        },
+        {
+            "source": "Galician",
             "target": "Occitan",
             "sim": 7.54
         },
@@ -2970,6 +3839,11 @@
             "sim": 9.569
         },
         {
+            "source": "Gujarati",
+            "target": "Urdu",
+            "sim": 6.14
+        },
+        {
             "source": "Hakka Chinese",
             "target": "Yue Chinese",
             "sim": 19.67
@@ -2995,6 +3869,11 @@
             "sim": 28.16
         },
         {
+            "source": "Iloko",
+            "target": "Tagalog",
+            "sim": 6.277
+        },
+        {
             "source": "Indonesian",
             "target": "Malay",
             "sim": 70.725
@@ -3013,6 +3892,11 @@
             "source": "Icelandic",
             "target": "Norwegian Nynorsk",
             "sim": 7.083
+        },
+        {
+            "source": "Italian",
+            "target": "Occitan",
+            "sim": 6.07
         },
         {
             "source": "Italian",
@@ -3036,8 +3920,18 @@
         },
         {
             "source": "Javanese",
+            "target": "Samoan",
+            "sim": 6.46
+        },
+        {
+            "source": "Javanese",
             "target": "Sundanese",
             "sim": 10.839
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Kazakh",
+            "sim": 6.303
         },
         {
             "source": "Kara-Kalpak",
@@ -3073,6 +3967,11 @@
             "source": "Kara-Kalpak",
             "target": "Tatar",
             "sim": 7.289
+        },
+        {
+            "source": "Kara-Kalpak",
+            "target": "Turkmen",
+            "sim": 6.04
         },
         {
             "source": "Kara-Kalpak",
@@ -3245,6 +4144,16 @@
             "sim": 15.039
         },
         {
+            "source": "Komi-Permyak",
+            "target": "Udmurt",
+            "sim": 6.192
+        },
+        {
+            "source": "Konkani",
+            "target": "Malayalam",
+            "sim": 6.188
+        },
+        {
             "source": "Konkani",
             "target": "Nepali",
             "sim": 14.08
@@ -3306,6 +4215,11 @@
         },
         {
             "source": "Kumyk",
+            "target": "Tatar",
+            "sim": 6.209
+        },
+        {
+            "source": "Kumyk",
             "target": "Tuvinian",
             "sim": 7.868
         },
@@ -3330,6 +4244,16 @@
             "sim": 7.482
         },
         {
+            "source": "Latin",
+            "target": "Sicilian",
+            "sim": 6.109
+        },
+        {
+            "source": "Latin",
+            "target": "Spanish",
+            "sim": 6.082
+        },
+        {
             "source": "Lak",
             "target": "Lezghian",
             "sim": 12.913
@@ -3340,9 +4264,19 @@
             "sim": 12.654
         },
         {
+            "source": "Limburgan",
+            "target": "Low German",
+            "sim": 6.084
+        },
+        {
             "source": "Liv",
             "target": "V\u00f5ro",
             "sim": 13.131
+        },
+        {
+            "source": "Ladin",
+            "target": "Mirandese",
+            "sim": 6.061
         },
         {
             "source": "Ladin",
@@ -3358,6 +4292,11 @@
             "source": "Luxembourgish",
             "target": "Low German",
             "sim": 7.503
+        },
+        {
+            "source": "Laz",
+            "target": "Mingrelian",
+            "sim": 6.454
         },
         {
             "source": "Malayalam",
@@ -3383,6 +4322,11 @@
             "source": "Moksha",
             "target": "Erzya",
             "sim": 13.049
+        },
+        {
+            "source": "Eastern Mari",
+            "target": "Western Mari",
+            "sim": 6.176
         },
         {
             "source": "Mi'kmaq",
@@ -3446,6 +4390,11 @@
         },
         {
             "source": "Neapolitan",
+            "target": "Occitan",
+            "sim": 6.358
+        },
+        {
+            "source": "Neapolitan",
             "target": "Piemontese",
             "sim": 9.333
         },
@@ -3456,6 +4405,11 @@
         },
         {
             "source": "Neapolitan",
+            "target": "Macedo-Romanian",
+            "sim": 6.149
+        },
+        {
+            "source": "Neapolitan",
             "target": "Sicilian",
             "sim": 6.97
         },
@@ -3463,6 +4417,11 @@
             "source": "Neapolitan",
             "target": "Venetian",
             "sim": 6.904
+        },
+        {
+            "source": "Low German",
+            "target": "Saterfriesisch",
+            "sim": 6.063
         },
         {
             "source": "Nepali",
@@ -3513,6 +4472,11 @@
             "source": "Nogai",
             "target": "Tuvinian",
             "sim": 6.599
+        },
+        {
+            "source": "Pedi",
+            "target": "Tswana",
+            "sim": 6.007
         },
         {
             "source": "Occitan",
@@ -3570,6 +4534,16 @@
             "sim": 7.703
         },
         {
+            "source": "Polish",
+            "target": "Slovak",
+            "sim": 6.098
+        },
+        {
+            "source": "Portuguese",
+            "target": "Romansh",
+            "sim": 6.176
+        },
+        {
             "source": "Portuguese",
             "target": "Romanian",
             "sim": 9.065
@@ -3588,6 +4562,11 @@
             "source": "Rapanui",
             "target": "Tuvalu",
             "sim": 7.998
+        },
+        {
+            "source": "Kalo Finnish Romani",
+            "target": "Romansh",
+            "sim": 6.306
         },
         {
             "source": "Romansh",
@@ -3623,6 +4602,11 @@
             "source": "Russian",
             "target": "Ukrainian",
             "sim": 8.148
+        },
+        {
+            "source": "Yakut",
+            "target": "Tuvinian",
+            "sim": 6.484
         },
         {
             "source": "Sanskrit",
@@ -3690,6 +4674,11 @@
             "sim": 70.639
         },
         {
+            "source": "Samoan",
+            "target": "Waray",
+            "sim": 6.031
+        },
+        {
             "source": "Logudorese Sardinian",
             "target": "Campidanese Sardinian",
             "sim": 19.191
@@ -3710,14 +4699,29 @@
             "sim": 18.623
         },
         {
+            "source": "Turkmen",
+            "target": "Turkish",
+            "sim": 6.354
+        },
+        {
             "source": "Tuvalu",
             "target": "Waray",
             "sim": 6.877
         },
         {
             "source": "Veps",
+            "target": "Votic",
+            "sim": 6.281
+        },
+        {
+            "source": "Veps",
             "target": "V\u00f5ro",
             "sim": 10.161
+        },
+        {
+            "source": "V\u00f5ro",
+            "target": "Nenets",
+            "sim": 6.226
         },
         {
             "source": "Xhosa",
